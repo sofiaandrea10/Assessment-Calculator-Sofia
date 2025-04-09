@@ -1,0 +1,17 @@
+C:\Users\FERDIE LILET\source\repos\cal\cal\obj\Debug\net8.0-windows\cal.Form1.resources
+C:\Users\FERDIE LILET\source\repos\cal\cal\obj\Debug\net8.0-windows\cal.csproj.GenerateResource.cache
+C:\Users\FERDIE LILET\source\repos\cal\cal\obj\Debug\net8.0-windows\cal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FERDIE LILET\source\repos\cal\cal\obj\Debug\net8.0-windows\cal.AssemblyInfoInputs.cache
+C:\Users\FERDIE LILET\source\repos\cal\cal\obj\Debug\net8.0-windows\cal.AssemblyInfo.cs
+C:\Users\FERDIE LILET\source\repos\cal\cal\obj\Debug\net8.0-windows\cal.csproj.CoreCompileInputs.cache
+C:\Users\FERDIE LILET\source\repos\cal\cal\bin\Debug\net8.0-windows\cal.exe
+C:\Users\FERDIE LILET\source\repos\cal\cal\bin\Debug\net8.0-windows\cal.deps.json
+C:\Users\FERDIE LILET\source\repos\cal\cal\bin\Debug\net8.0-windows\cal.runtimeconfig.json
+C:\Users\FERDIE LILET\source\repos\cal\cal\bin\Debug\net8.0-windows\cal.dll
+C:\Users\FERDIE LILET\source\repos\cal\cal\bin\Debug\net8.0-windows\cal.pdb
+C:\Users\FERDIE LILET\source\repos\cal\cal\obj\Debug\net8.0-windows\cal.dll
+C:\Users\FERDIE LILET\source\repos\cal\cal\obj\Debug\net8.0-windows\refint\cal.dll
+C:\Users\FERDIE LILET\source\repos\cal\cal\obj\Debug\net8.0-windows\cal.pdb
+C:\Users\FERDIE LILET\source\repos\cal\cal\obj\Debug\net8.0-windows\cal.genruntimeconfig.cache
+C:\Users\FERDIE LILET\source\repos\cal\cal\obj\Debug\net8.0-windows\ref\cal.dll
+C:\Users\FERDIE LILET\source\repos\cal\cal\obj\Debug\net8.0-windows\cal.Properties.Resources.resources
